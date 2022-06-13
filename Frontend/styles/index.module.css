@@ -1,0 +1,58 @@
+.test {
+    
+    
+    border: 2px solid  rgb(2, 2, 2);
+    border-radius: 13px 13px 13px 13px;
+    background-color: rgb(228, 228, 228);
+}
+
+.wall{
+    /* width: auto; */
+    /* height: auto; */
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+}
+.customerLayout{
+    
+    margin:10px;
+    border: 8px solid  rgb(255, 255, 255);
+    border-radius: 10px ;
+    background: rgb(255, 255, 255);
+    /* background-color: green; */
+}
+.assessmentLayout{
+    display: flex;
+    flex-direction: column;
+    /* margin:0 auto; */
+    margin-top: 10px;
+    border: 8px solid  rgb(255, 255, 255);
+    border-radius: 10px ;
+    background: rgb(255, 255, 255);
+}
+
+
+/* .customerStyle{
+    font-size: 30px;
+}
+.customerForm{
+    display: flex;
+} */
+.VDO_Button {
+    background-color: rgb(14, 98, 177);
+    text-align: center;
+    border-radius: 10px 0px 0px 0px;}
+    
+.Hist_Button {
+    background-color: rgb(230, 164, 23);
+    text-align: center;
+    border-radius: 0px 10px 0px 0px;
+}
+
+.Login_Form{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10%;
+    padding: 20px;
+    border-radius: 20px;
+    background-color:white;
+}
