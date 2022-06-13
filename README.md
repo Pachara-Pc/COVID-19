@@ -21,7 +21,7 @@
 ` python -m pip install -r requirements.txt`
 4. ดาว์โหลด VDO ตัวอย่างได้ที่ https://drive.google.com/file/d/1RYhX3jmlXmK3cOla0ayA1OFoeOcufpWy/view?usp=sharing 
 จากนั้นทำการแตกไฟล์ VDO.zip ไปยังที่ Backend/VDO 
-5. เมื่อทำครบตามขั้นตอนทักหมดแล้ว ให้ทำการรันโปรแกรมฝั่งของเซิฟเวอร์โดยใช้คำสั่ง
+5. เมื่อทำครบตามขั้นตอนทั้งหมดแล้ว ให้ทำการรันโปรแกรมฝั่งของเซิฟเวอร์โดยใช้คำสั่ง
  `uvicorn server:app --reload`
  
 ## Setup Client side
