@@ -17,7 +17,7 @@
   * VDO - เป็น folder ใช้สำหรับเก็บไฟล์ VDO
   * split - เป็น folder ใช้สำหรับเก็บไฟล์ภาพที่โปรแกรมประมวลผล
   * History - เป็น folder ใช่สำหรับเก็บไฟล์รายงานการปรากฎของพนักงาน
-โดยใช้คำสั่ง `mkdir VDO split History`
+<br/> โดยใช้คำสั่ง `mkdir VDO split History`
 3. ติดตั้ง python packages โดยใช้คำสั่ง
 ` python -m pip install -r requirements.txt`
 4. ดาว์โหลด VDO ตัวอย่างได้ที่ https://drive.google.com/file/d/1RYhX3jmlXmK3cOla0ayA1OFoeOcufpWy/view?usp=sharing 
