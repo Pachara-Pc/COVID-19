@@ -13,10 +13,11 @@
 
 ## Setup Server side
 1. เข้าไปยังโฟลเดอร์ Backend โดยใช้คำสั่่ง `cd Backend`
-2. เข้าไปยัง folder Backend และสร้าง folder ดังนี้
+2. เข้าไปยัง folder Backend และสร้าง folder ดังนี้ 
   * VDO - เป็น folder ใช้สำหรับเก็บไฟล์ VDO
   * split - เป็น folder ใช้สำหรับเก็บไฟล์ภาพที่โปรแกรมประมวลผล
   * History - เป็น folder ใช่สำหรับเก็บไฟล์รายงานการปรากฎของพนักงาน
+โดยใช้คำสั่ง `mkdir VDO split History`
 3. ติดตั้ง python packages โดยใช้คำสั่ง
 ` python -m pip install -r requirements.txt`
 4. ดาว์โหลด VDO ตัวอย่างได้ที่ https://drive.google.com/file/d/1RYhX3jmlXmK3cOla0ayA1OFoeOcufpWy/view?usp=sharing 
